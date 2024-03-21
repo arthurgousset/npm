@@ -1,8 +1,14 @@
-# npm (Cheat Sheet)
+# NPM (Cheat Sheet)
 
 This is a cheat sheet on npm (mostly notes-to-self). It is incomplete by default.
 
-### `npm info <package-name>`
+## `npm` CLI
+
+Source: 
+
+### `npm info <package-name>` (alias for `npm view`)
+
+Docs: [docs.npmjs.com/cli](https://docs.npmjs.com/cli/v10/commands/npm-view)
 
 Get information about a package in your terminal.
 
